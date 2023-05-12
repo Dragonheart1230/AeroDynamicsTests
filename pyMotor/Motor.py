@@ -41,7 +41,6 @@ NEWTON
 
 """https://emrax.com/wp-content/uploads/2022/11/EMRAX_228_datasheet_A00.pdf"""
 import csv
-f = open("output.csv","w")
 Voltage = 0
 Kv = 10.12
 Kt = 0.94
